@@ -3,6 +3,9 @@ CozyDecor is an Augmented Reality app that raises the bar for buying furniture. 
 
 CozyDecor lets you virtually place true-to-scale 3D models in your very own space. Combining the latest AR technology and our innovative smart home solutions you can experience buying furniture like never before.
 
+<img width="500" src="https://user-images.githubusercontent.com/88189594/186667475-83db4c5a-98a9-4bfb-8b91-267741628662.png">
+
+
 > This project has been made by me and my team.
 
 ### Features:
@@ -18,4 +21,4 @@ The project is built using [Unity](https://unity.com) and [Vuforia](https://deve
 
 ### Demo video
 
-<video src='CozyDecor.mov'>
+https://user-images.githubusercontent.com/88189594/186667619-87381762-41bb-44fc-9449-a53d680d5b8f.mov
